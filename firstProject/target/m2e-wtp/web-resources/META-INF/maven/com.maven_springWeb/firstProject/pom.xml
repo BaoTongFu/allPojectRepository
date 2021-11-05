@@ -9,7 +9,7 @@
 	<name>firstProject Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>5.0.2.RELEASE</spring.version>
+		<spring.version>5.2.18.RELEASE</spring.version>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->

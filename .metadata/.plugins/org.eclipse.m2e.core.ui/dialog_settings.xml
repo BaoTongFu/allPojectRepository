@@ -48,12 +48,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.maven_springWeb.firstProjectWebXmlConfigure"/>
 			<item value="com.maven_springWeb.firstProject"/>
 		</list>
 		<list key="groupId">
 			<item value="com.maven_springWeb"/>
 		</list>
 		<list key="artifactId">
+			<item value="firstProjectWebXmlConfigure"/>
 			<item value="firstProject"/>
 		</list>
 		<list key="projectNameTemplate">

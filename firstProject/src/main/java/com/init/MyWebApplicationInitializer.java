@@ -8,12 +8,14 @@ import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
 import org.springframework.web.servlet.DispatcherServlet;
 
+import com.config.WebConfig;
+
 public class MyWebApplicationInitializer implements WebApplicationInitializer {
 
 	@Override
 	public void onStartup(ServletContext servletContext) throws ServletException {
 		AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicationContext();
-		// context.register();
+		context.register(WebConfig.class);
 		DispatcherServlet servlet = new DispatcherServlet(context);
 		Dynamic registration = servletContext.addServlet( "app",servlet);
 		

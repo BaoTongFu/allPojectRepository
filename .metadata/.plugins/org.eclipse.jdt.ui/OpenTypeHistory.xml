@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=firstProject/D:\/maven_repo\/org\/springframework\/spring-web\/5.2.18.RELEASE\/spring-web-5.2.18.RELEASE.jar&lt;org.springframework.web(WebApplicationInitializer.class[WebApplicationInitializer" modifiers="1537" timestamp="1636069120422"/>
+<typeInfo handle="=firstProjectWebXmlConfigure/src\/test\/java&lt;com.btf.online{BaseTest.java[BaseTest" modifiers="1" timestamp="1636170893545"/>
+<typeInfo handle="=firstProjectWebXmlConfigure/D:\/maven_repo\/org\/mybatis\/mybatis-spring\/2.0.1\/mybatis-spring-2.0.1.jar&lt;org.mybatis.spring.support(SqlSessionDaoSupport.class[SqlSessionDaoSupport" modifiers="1057" timestamp="1636163963421"/>
 </typeInfoHistroy>

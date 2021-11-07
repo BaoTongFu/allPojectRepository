@@ -152,7 +152,7 @@
 
       
     <!--   <Context docBase="E:/image/upload" path="/upload"/> -->
-      <Context docBase="firstProject" path="/firstProject" reloadable="true" source="org.eclipse.jst.jee.server:firstProject"/></Host>
+      <Context docBase="firstProjectWebXmlConfigure" path="/firstProjectWebXmlConfigure" reloadable="true" source="org.eclipse.jst.jee.server:firstProjectWebXmlConfigure"/></Host>
     </Engine>
   </Service>
 </Server>
